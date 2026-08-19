@@ -9,3 +9,7 @@ can produce A.
 2)// Counts, across all distinct prefixes of the given binary arrays (deduped via a trie),
 // the number of "special" subarrays — contiguous subarrays with a strictly positive,
 // even count of 1's — and sums them modulo 1e9+7.
+
+3) Hidden Treasure
+
+4)Minimum Operations. 
