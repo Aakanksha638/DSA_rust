@@ -13,3 +13,7 @@ can produce A.
 3) Hidden Treasure
 
 4)Minimum Operations. 
+
+5)PrimeQuery
+6) RebelReach
+7) Special Subarrays
